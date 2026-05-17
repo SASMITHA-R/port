@@ -1,0 +1,30 @@
+name: sasmitha_portfolio
+description: Professional Flutter Portfolio App for Sasmitha R
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  google_fonts: ^6.1.0
+  animated_text_kit: ^4.2.2
+  url_launcher: ^6.2.4
+  shared_preferences: ^2.2.2
+  visibility_detector: ^0.4.0+2
+  flutter_animate: ^4.5.0
+  web: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/Sasmitha_R_Resume.pdf

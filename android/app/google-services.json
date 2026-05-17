@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122933056130",
+    "project_id": "port-7f3c1",
+    "storage_bucket": "port-7f3c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122933056130:android:8f82b231314579bc389a9b",
+        "android_client_info": {
+          "package_name": "com.example.sasmitha_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozsW_scj4rHM4zemQhFdHY6n-o7bIkec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
