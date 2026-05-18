@@ -3,8 +3,8 @@ import 'package:flutter/services.dart';
 import 'package:web/web.dart' as web;
 
 Future<void> downloadResumeImpl() async {
-  const assetPath = 'assets/Sasmitha_R_Resume.pdf';
-  const fileName = 'Sasmitha_R_Resume.pdf';
+  const assetPath = 'assets/images/SASMITHA-R-RESUME.pdf';
+  const fileName = 'SASMITHA-R-RESUME.pdf';
 
   final data = await rootBundle.load(assetPath);
   final bytes = data.buffer.asUint8List();
@@ -19,6 +19,7 @@ Future<void> downloadResumeImpl() async {
     ..href = url
     ..setAttribute('download', fileName)
     ..style.display = 'none';
+
 
   web.document.body!.appendChild(anchor);
   anchor.click();

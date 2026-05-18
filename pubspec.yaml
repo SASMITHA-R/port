@@ -26,5 +26,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/
-    - assets/Sasmitha_R_Resume.pdf
+    - assets/images/SASMITHA-R-RESUME.pdf
+

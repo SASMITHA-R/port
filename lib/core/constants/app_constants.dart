@@ -19,7 +19,7 @@ class AppConstants {
   static const String linkedin =
       'https://www.linkedin.com/in/sasmitha-r-3aa062228/';
   static const String resumeUrl =
-      'https://drive.google.com/file/d/1fTM2TAVXlMwB0-1lvVXQWcD-esRP0aOV/view?usp=drive_link';
+      'https://drive.google.com/file/d/15htHBfN4Xc0rXglLx_6ZKnZVRN2Zikyy/view?usp=drive_link';
 
   static const String bio =
       "Flutter Developer with hands-on experience building responsive mobile "
